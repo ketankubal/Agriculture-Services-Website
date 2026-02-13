@@ -114,7 +114,7 @@ Open **XAMPP Control Panel** → Start both.
 
 ### 5️⃣ Run the Website  
 Open in browser:
-http://localhost/agriculture-services-website/
+http://localhost/agriculture_project/
 
 
 
