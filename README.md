@@ -132,7 +132,8 @@ http://localhost/agriculture_project/
 **Ketan Kubal**  
 BSc IT Graduate | Software Testing Trainee  
 Email: **ketankubal8@gmail.com**  
-LinkedIn: *add your link here*
+LinkedIn: www.linkedin.com/in/ketan-kubal-3264b225a
+
 
 ---
 
